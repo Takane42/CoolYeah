@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "e129690c6df9ec80",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6c866096334f812",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "937f45a152cb4a3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistem Digital/Pertemuan 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b21572d34282516",
+    "type": "split",
+    "children": [
+      {
+        "id": "eacd93764e570ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a198b165c9723f80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b65919d339cfafc7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dfdcbe5d38c3fdf6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "630289509f600496",
+    "type": "split",
+    "children": [
+      {
+        "id": "463502d9f61f78c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d979d4a21b3149b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sistem Digital/Pertemuan 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a0660b5ccdf50bf2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sistem Digital/Pertemuan 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b4d2c34da1be9312",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ffae9baf323495be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sistem Digital/Pertemuan 2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "937f45a152cb4a3a",
+  "lastOpenFiles": [
+    "Bahasa Inggris/Pertemuan 2.md",
+    "Sistem Digital/Pertemuan 2.md",
+    "Test.md",
+    "Untitled.md",
+    "2023-03-13.md",
+    "Untitled.canvas",
+    "Bahasa Inggris",
+    "Sistem Digital"
+  ]
+}
