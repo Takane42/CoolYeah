@@ -22,91 +22,22 @@
         ]
       },
       {
-        "id": "1377e2ce955bb4fe",
-        "type": "split",
+        "id": "fa47de7674c1cab3",
+        "type": "tabs",
         "children": [
           {
-            "id": "fa47de7674c1cab3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "19b941b0e48d638e",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Basis Data/Jawaban Quiz 1.md",
-                    "mode": "preview",
-                    "source": false
-                  }
-                }
+            "id": "19b941b0e48d638e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basis Data/Jawaban Quiz 1.md",
+                "mode": "preview",
+                "source": false
               }
-            ]
-          },
-          {
-            "id": "b70de5e1ea9c3dd0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "16d1b0ac3e6c6fb1",
-                "type": "leaf",
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": null,
-                      "profile": {
-                        "args": [],
-                        "executable": "/bin/sh",
-                        "name": "",
-                        "platforms": {
-                          "linux": true
-                        },
-                        "pythonExecutable": "python3",
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": {
-                        "columns": 89,
-                        "data": "sh-5.1$ ls\r\nDesktop  Documents  Downloads  Music  Pictures\u001b[2CPublic\u001b[2CTemplates  Videos\r\n\u001b[35m❯\u001b[0m \u001b[32mgit\u001b[0m add \u001b[4m.\u001b[0m                                                             \r\n                                                                                         \r\n\u001b[34;1mCoolYeah\u001b[22m \u001b[90mgit:master* \u001b[0m \r\n\u001b[35m❯\u001b[0m \u001b[32mgit\u001b[0m status\r\nOn branch master\r\nChanges to be committed:\r\n  (use \"git restore --staged <file>...\" to unstage)\r\n\u001b[8C\u001b[32mmodified:   .obsidian/community-plugins.json\r\n\u001b[8Cmodified:   .obsidian/graph.json\r\n\u001b[8Cnew file:   .obsidian/plugins/obsidian-text-format/main.js\r\n\u001b[8Cnew file:   .obsidian/plugins/obsidian-text-format/manifest.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\u001b[8Cnew file:   Basis Data/Jawaban Quiz 1.md\r\n\u001b[8Cmodified:   Sistem Digital/Pertemuan 2.md\r\n\r\n\u001b[0mChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0m                                                                                         \r\n\u001b[34;1mCoolYeah\u001b[22m \u001b[90mgit:master* \u001b[0m \r\n\u001b[35m❯\u001b[0m \u001b[32mgit\u001b[0m commit -m \u001b[33m\"Update Kuliah 15/03/23 + Update Sistem Digital\"\u001b[0m; \u001b[32mgit\u001b[0m push origin master\r\n[master 1900fc2] Update Kuliah 15/03/23 + Update Sistem Digital\r\n 7 files changed, 1277 insertions(+), 13 deletions(-)\r\n create mode 100644 .obsidian/plugins/obsidian-text-format/main.js\r\n create mode 100644 .obsidian/plugins/obsidian-text-format/manifest.json\r\n create mode 100644 Basis Data/Jawaban Quiz 1.md\r\nUsername for 'https://github.com': Takane42\r\nPassword for 'https://Takane42@github.com': \r\n\r\nremote: Support for password authentication was removed on August 13, 2021.\r\nremote: Please see https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories#cloning-with-https-urls for information on currently recommended modes of authentication.\r\nfatal: Authentication failed for 'https://github.com/Takane42/CoolYeah.git/'\r\n                                                                                         \r\n\u001b[34;1mCoolYeah\u001b[22m \u001b[90mgit:master* \u001b[0m \u001b[33m24s\r\n\u001b[31m❯\u001b[0m \r\n                                                                                         \r\n\u001b[34;1mCoolYeah\u001b[22m \u001b[90mgit:master* \u001b[0m \r\n\u001b[31m❯\u001b[0m \u001b[32mecho\u001b[0m $GITLAB_KEYS\r\n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\r\n                                                                                         \r\n\u001b[34;1mCoolYeah\u001b[22m \u001b[90mgit:master* \u001b[0m \r\n\u001b[35m❯\u001b[0m \u001b[32mgit\u001b[0m commit -m \u001b[33m\"Update Kuliah 15/03/23 + Update Sistem Digital\"\u001b[0m; \u001b[32mgit\u001b[0m push origin master\r\nOn branch master\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\nUsername for 'https://github.com': ^C\r\n                                                                                         \r\n\u001b[34;1mCoolYeah\u001b[22m \u001b[90mgit:master* \u001b[0m \r\n\u001b[31m❯\u001b[0m \u001b[32mgit\u001b[0m add \u001b[4m.\u001b[0m",
-                        "rows": 19
-                      }
-                    }
-                  }
-                }
-              },
-              {
-                "id": "6c7ddb7417af9975",
-                "type": "leaf",
-                "state": {
-                  "type": "terminal:terminal",
-                  "state": {
-                    "terminal:terminal": {
-                      "cwd": null,
-                      "profile": {
-                        "args": [],
-                        "executable": "/bin/sh",
-                        "name": "",
-                        "platforms": {
-                          "linux": true
-                        },
-                        "pythonExecutable": "python3",
-                        "type": "integrated",
-                        "useWin32Conhost": true
-                      },
-                      "serial": {
-                        "columns": 89,
-                        "data": "sh-5.1$ zsh\r\n                                                                                         \r\n\u001b[34m~ \u001b[90m \u001b[0m \r\n\u001b[35m❯\u001b[0m \u001b[32mecho\u001b[0m $GITLAB_KEYS\r\n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\r\n                                                                                         \r\n\u001b[34m~ \u001b[90m \u001b[0m \r\n\u001b[35m❯\u001b[0m ",
-                        "rows": 19
-                      }
-                    }
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Basis Data/Jawaban Quiz 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Basis Data/Jawaban Quiz 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +143,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Basis Data/Jawaban Quiz 1.md"
+              }
             }
           }
         ]
@@ -232,7 +167,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "16d1b0ac3e6c6fb1",
+  "active": "e951364bdd9a3f9e",
   "lastOpenFiles": [
     "Basis Data/Jawaban Quiz 1.md",
     "Sistem Digital/Pertemuan 2.md",
