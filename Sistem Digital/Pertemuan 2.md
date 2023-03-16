@@ -1,5 +1,5 @@
-###### TL;DR : Sistem Bilangan Biner, Oktal, Desimal, Hexadesimal dan Cara Konversinya
-Tags : #Biner #Oktal #Desimal #Hexadesimal #Konversi
+TL;DR : Sistem Bilangan Biner, Oktal, Desimal, Hexadesimal dan Cara Konversinya
+###### Tags : #Biner #Oktal #Desimal #Hexadesimal #Konversi
 
 Sistem Bilangan : 
 - Biner :
