@@ -8,18 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "937f45a152cb4a3a",
+            "id": "e951364bdd9a3f9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistem Digital/Pertemuan 2.md",
+                "file": "Basis Data/Jawaban Quiz 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ]
+      },
+      {
+        "id": "1377e2ce955bb4fe",
+        "type": "split",
+        "children": [
+          {
+            "id": "fa47de7674c1cab3",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "19b941b0e48d638e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Basis Data/Jawaban Quiz 1.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "b70de5e1ea9c3dd0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "16d1b0ac3e6c6fb1",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": null,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/sh",
+                        "name": "",
+                        "platforms": {
+                          "linux": true
+                        },
+                        "pythonExecutable": "python3",
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 89,
+                        "data": "sh-5.1$ ls\r\nDesktop  Documents  Downloads  Music  Pictures\u001b[2CPublic\u001b[2CTemplates  Videos\r\n\u001b[35m❯\u001b[0m \u001b[32mgit\u001b[0m add \u001b[90m. ; git commit -m \"Coolyeah 13/03/23\" ; git push origin master\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\u001b[18A\u001b[10C\u001b[0m",
+                        "rows": 19
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -69,7 +128,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "630289509f600496",
@@ -85,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sistem Digital/Pertemuan 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sistem Digital/Pertemuan 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +182,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sistem Digital/Pertemuan 2.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,10 +204,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "937f45a152cb4a3a",
+  "active": "16d1b0ac3e6c6fb1",
   "lastOpenFiles": [
-    "Bahasa Inggris/Pertemuan 2.md",
+    "Basis Data/Jawaban Quiz 1.md",
     "Sistem Digital/Pertemuan 2.md",
+    "Basis Data",
+    "Bahasa Inggris/Pertemuan 2.md",
     "Test.md",
     "Untitled.md",
     "2023-03-13.md",
