@@ -1,4 +1,4 @@
-TL;DR : Sistem Bilangan Biner, Oktal, Desimal, Hexadesimal dan Cara Konversinya
+###### TL;DR : Sistem Bilangan Biner, Oktal, Desimal, Hexadesimal dan Cara Konversinya
 Tags : #Biner #Oktal #Desimal #Hexadesimal #Konversi
 
 Sistem Bilangan : 
@@ -86,38 +86,26 @@ Konversi :
 - Oktal
 	Sistem bilangan Oktal memiliki Radix 8, apabila diubah menjadi pangkat 2 maka akan berubah menjadi 2<sup>3</sup>. Sehingga tabel kebenarannya adalah sebagai berikut
 
-	| Angka | Biner | 
-	| ----- | ----- |
-	| 0 | 000 |
-	| 1 | 001 |
-	| 2 | 010 |
-	| 3 | 011 |
-	| 4 | 100 |
-	| 5 | 101 |
-	| 6 | 110 |
-	| 7 | 111 |
+	| Angka | Biner | Angka | Biner |
+	| ----- | ----- | ----- | -----|
+	| 0 | 000 | 4 | 100 |
+	| 1 | 001 | 5 | 101 |
+	| 2 | 010 | 6 | 110 |
+	| 3 | 011 | 7 | 111 |
  
 - Hexadesimal
 	Sistem bilangan Hexadesimal memiliki Radix 16, apabila diubah menjadi pangkat 2 maka akan berubah menjadi 2<sup>4</sup>. Sehingga tabel kebenarannya adalah sebagai berikut
 
-	| Angka | Biner | 
-	| ----- | ----- |
-	| 0 | 0000 |
-	| 1 | 0001 |
-	| 2 | 0010 |
-	| 3 | 0011 |
-	| 4 | 0100 |
-	| 5 | 0101 |
-	| 6 | 0110 |
-	| 7 | 0111 |
-	| 8 | 1000 |
-	| 9 | 1001 |
-	| A | 1010 |
-	| B | 1011 |
-	| C | 1100 |
-	| D | 1101 |
-	| E | 1110 |
-	| F | 1111 |
+	| Angka | Biner | Angka | Biner|
+	| ----- | ----- | -----| ---- |
+	| 0 | 0000 | 8 | 1000 |
+	| 1 | 0001 | 9 | 1001 |
+	| 2 | 0010 | A | 1010 |
+	| 3 | 0011 | B | 1011 |
+	| 4 | 0100 | C | 1100 |
+	| 5 | 0101 | D | 1101 |
+	| 6 | 0110 | E | 1110 |
+	| 7 | 0111 | F | 1111 |
 
 > Contoh 1 : Mengubah Hexadesimal ke Oktal
 > (4B)<sub>16</sub> = ( ... )<sub>8</sub>

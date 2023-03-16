@@ -1,4 +1,4 @@
-Tags : #Quiz #Database
+###### Tags : #Quiz #Database
 ### Soal :
 1. Jelaskan Menurut Anda Apa Yang Dimaksud Dengan Basis Data?
 2. Apakah Semua Data Yang Disimpan Dalam Media Penyimpanan Merupakan  Basis Data? Jelaskan
