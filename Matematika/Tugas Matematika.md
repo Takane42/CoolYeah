@@ -14,6 +14,7 @@
 ## Jawaban
 
 1. Himpunan adalah kumpulan dari objek - objek yang berbeda
+
 2. Cara menyajikan Himpunan :
 	1. Enumerasi :
 		Disebutkan Secara Rinci. Contoh :
@@ -34,8 +35,9 @@
 		- $A = \{2,4,6,8\}$
 		- $B = \{1,2,3,5,7\}$
 		- $S = \{1,2,...,10\}$
-		![[Pasted image 20230317193333.png]]
-3. Jenis - Jenis Himpunan :
+			![[Diagram Venn.png]]
+			
+1. Jenis - Jenis Himpunan :
 	1.  Himpunan Kosong (Empty Set)
 		Definisi : Himpunan yang tidak memiliki anggota satupun.
 		Notasi : $\{ \text{ } \}$ atau $\emptyset$
@@ -83,6 +85,7 @@
 		Contoh :
 		-  $A = \{\ x\ |\ x \in P\}$
 		  Himpunan B adalah Himpunan tak terhingga, dikarenakan anggotanya tidak dapat dihitung jumlahnya.
+
 4. Operasi pada Himpunan :
 	1. Union (Gabungan)
 		Definisi : Semua Anggota pada 2 himpunan atau lebih
